@@ -1,0 +1,242 @@
+[
+  {
+    "name": {
+      "ar": "Emirates",
+      "en": "الإمارات"
+    },
+    "code": "AE",
+    "id": 971,
+    "flag": "united-arab-emirates.svg",
+    "is_new": false,
+    "visible": true
+  },
+  {
+    "name": {
+      "ar": "البحرين",
+      "en": "Bahrain"
+    },
+    "code": "BH",
+    "id": 973,
+    "flag": "bahrain.svg",
+    "is_new": false,
+    "visible": true
+  },
+  {
+    "name": {
+      "ar": "جيبوتي",
+      "en": "Djibouti"
+    },
+    "code": "DJ",
+    "id": 253,
+    "flag": "djibouti.svg",
+    "is_new": false,
+    "visible": true
+  },
+  {
+    "name": {
+      "ar": "الجزائر",
+      "en": "Algeria"
+    },
+    "code": "DZ",
+    "id": 213,
+    "flag": "algeria.svg",
+    "is_new": false,
+    "visible": true
+  },
+  {
+    "name": {
+      "ar": "مصر",
+      "en": "Egypt"
+    },
+    "code": "EG",
+    "id": 20,
+    "flag": "egypt.svg",
+    "is_new": false,
+    "visible": true
+  },
+  {
+    "name": {
+      "ar": "العراق",
+      "en": "Iraq"
+    },
+    "code": "IQ",
+    "id": 964,
+    "flag": "iraq.svg",
+    "is_new": false,
+    "visible": true
+  },
+  {
+    "name": {
+      "ar": "الأردن",
+      "en": "Jordan"
+    },
+    "code": "JO",
+    "id": 962,
+    "flag": "jordan.svg",
+    "is_new": false,
+    "visible": true
+  },
+  {
+    "name": {
+      "ar": "القمر",
+      "en": "Comoros"
+    },
+    "code": "KM",
+    "id": 269,
+    "flag": "comoros.svg",
+    "is_new": false,
+    "visible": true
+  },
+  {
+    "name": {
+      "ar": "الكويت",
+      "en": "Kuwait"
+    },
+    "code": "KW",
+    "id": 965,
+    "flag": "kuwait.svg",
+    "is_new": false,
+    "visible": true
+  },
+  {
+    "name": {
+      "ar": "لبنان",
+      "en": "Lebanon"
+    },
+    "code": "LB",
+    "id": 961,
+    "flag": "lebanon.svg",
+    "is_new": false,
+    "visible": true
+  },
+  {
+    "name": {
+      "ar": "ليبيا",
+      "en": "Libya"
+    },
+    "code": "LY",
+    "id": 218,
+    "flag": "libya.svg",
+    "is_new": false,
+    "visible": true
+  },
+  {
+    "name": {
+      "ar": "المغرب",
+      "en": "Morocco"
+    },
+    "code": "MA",
+    "id": 212,
+    "flag": "morocco.svg",
+    "is_new": false,
+    "visible": true
+  },
+  {
+    "name": {
+      "ar": "موريتانيا",
+      "en": "Mauritania"
+    },
+    "code": "MR",
+    "id": 222,
+    "flag": "mauritania.svg",
+    "is_new": false,
+    "visible": true
+  },
+  {
+    "name": {
+      "ar": "عمان",
+      "en": "Oman"
+    },
+    "code": "OM",
+    "id": 968,
+    "flag": "oman.svg",
+    "is_new": false,
+    "visible": true
+  },
+  {
+    "name": {
+      "ar": "فلسطين",
+      "en": "Palestine"
+    },
+    "code": "PS",
+    "id": 970,
+    "flag": "palestine.svg",
+    "is_new": false,
+    "visible": true
+  },
+  {
+    "name": {
+      "ar": "قطر",
+      "en": "Qatar"
+    },
+    "code": "QA",
+    "id": 974,
+    "flag": "qatar.svg",
+    "is_new": false,
+    "visible": true
+  },
+  {
+    "name": {
+      "ar": "السعودية",
+      "en": "Saudi"
+    },
+    "code": "SA",
+    "id": 966,
+    "flag": "saudi-arabia.svg",
+    "is_new": false,
+    "visible": true
+  },
+  {
+    "name": {
+      "ar": "السودان",
+      "en": "Sudan"
+    },
+    "code": "SD",
+    "id": 249,
+    "flag": "sudan.svg",
+    "is_new": false,
+    "visible": true
+  },
+  {
+    "name": {
+      "ar": "الصومال",
+      "en": "Somalia"
+    },
+    "code": "SO",
+    "id": 252,
+    "flag": "somalia.svg",
+    "is_new": false,
+    "visible": true
+  },
+  {
+    "name": {
+      "ar": "سوريا",
+      "en": "Syria"
+    },
+    "code": "SY",
+    "id": 963,
+    "flag": "syria.svg",
+    "is_new": false,
+    "visible": true
+  },
+  {
+    "name": {
+      "ar": "تونس",
+      "en": "Tunisia"
+    },
+    "code": "TN",
+    "id": 216,
+    "flag": "tunisia.svg",
+    "is_new": false,
+    "visible": true
+  },
+  {
+    "name": {
+      "ar": "اليمن",
+      "en": "Yemen"
+    },
+    "code": "YE",
+    "id": 967,
+    "flag": "yemen.svg"
+  }
+]
