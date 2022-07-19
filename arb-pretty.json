@@ -8641,7 +8641,7 @@
       "ar": "",
       "en": "2M Monde"
     },
-    "logo": "https://i.imgur.com/CwwRn4b.png",
+    "logo": "fzyiFoW",
     "code": {
       "country": "MA",
       "category": "",
@@ -8653,138 +8653,70 @@
     "visible": true
   },
   {
-    "id": 85,
-    "name": {
-      "ar": "",
-      "en": "2M National"
-    },
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/8/8a/2M_logo.svg",
-    "code": {
-      "country": "MA",
-      "category": "",
-      "package": ""
-    },
-    "stream": "",
-    "status": "",
-    "new": false,
-    "visible": true
-  },
-  {
     "id": 531,
     "name": {
-      "ar": "",
+      "ar": "أفلام",
       "en": "Aflam TV"
     },
-    "logo": "https://i.imgur.com/XqQxO9J.png",
+    "logo": "vniU3Fp",
     "code": {
       "country": "MA",
       "category": "",
       "package": ""
     },
     "stream": "",
-    "status": "",
+    "status": "offline",
     "new": false,
     "visible": true
   },
   {
     "id": 677,
     "name": {
-      "ar": "",
+      "ar": "الأولى",
       "en": "Al Aoula"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e4/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89_Al_Aoula_Tv_Logo.png",
+    "logo": "dBWFaah",
     "code": {
       "country": "MA",
       "category": "",
       "package": ""
     },
-    "stream": "",
-    "status": "",
-    "new": false,
-    "visible": true
-  },
-  {
-    "id": 678,
-    "name": {
-      "ar": "",
-      "en": "Al Aoula Europe"
-    },
-    "logo": "https://www.lyngsat.com/logo/tv/ss/snrt_1_tvm_eu.png",
-    "code": {
-      "country": "MA",
-      "category": "",
-      "package": ""
-    },
-    "stream": "",
-    "status": "",
+    "stream": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8",
+    "status": "online",
     "new": false,
     "visible": true
   },
   {
     "id": 679,
     "name": {
-      "ar": "",
+      "ar": "الأولى العيون",
       "en": "Al Aoula Laayoune"
     },
-    "logo": "https://i.imgur.com/ZFHjIVU.png",
+    "logo": "dBWFaah",
     "code": {
       "country": "MA",
       "category": "",
       "package": ""
     },
-    "stream": "",
-    "status": "",
-    "new": false,
-    "visible": true
-  },
-  {
-    "id": 680,
-    "name": {
-      "ar": "",
-      "en": "Al Aoula Maroc"
-    },
-    "logo": "https://www.lyngsat.com/logo/tv/ss/snrt_1_tvm.png",
-    "code": {
-      "country": "MA",
-      "category": "",
-      "package": ""
-    },
-    "stream": "",
-    "status": "",
-    "new": false,
-    "visible": true
-  },
-  {
-    "id": 681,
-    "name": {
-      "ar": "",
-      "en": "Al Aoula Middle East"
-    },
-    "logo": "https://media.elcinema.com/tvguide/1101_1.png",
-    "code": {
-      "country": "MA",
-      "category": "",
-      "package": ""
-    },
-    "stream": "",
-    "status": "",
+    "stream": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8",
+    "status": "online",
     "new": false,
     "visible": true
   },
   {
     "id": 829,
     "name": {
-      "ar": "",
+      "ar": "المغربية",
       "en": "Al Maghribia"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/09/Almaghribiax2.png",
+    "logo": "SdeiuEL",
     "code": {
       "country": "MA",
       "category": "",
       "package": ""
     },
-    "stream": "",
-    "status": "",
+    "stream": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8",
+    "status": "online",
     "new": false,
     "visible": true
   },
@@ -8808,68 +8740,51 @@
   {
     "id": 1350,
     "name": {
-      "ar": "",
+      "ar": "الرابعة",
       "en": "Arrabiaa"
     },
-    "logo": "https://i.imgur.com/FvgdLdG.png",
+    "logo": "k11zZbT",
     "code": {
       "country": "MA",
       "category": "",
       "package": ""
     },
-    "stream": "",
-    "status": "",
+    "stream": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8",
+    "status": "online",
     "new": false,
     "visible": true
   },
   {
     "id": 1353,
     "name": {
-      "ar": "",
+      "ar": "الرياضية",
       "en": "Arryadia"
     },
-    "logo": "https://i.imgur.com/liFebM9.png",
+    "logo": "HrvbVB2",
     "code": {
       "country": "MA",
       "category": "",
       "package": ""
     },
-    "stream": "",
-    "status": "",
+    "stream": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8",
+    "status": "online",
     "new": false,
     "visible": true
   },
   {
     "id": 1437,
     "name": {
-      "ar": "",
+      "ar": "السادسة",
       "en": "Assadissa"
     },
-    "logo": "https://i.imgur.com/VQUrMjE.png",
+    "logo": "r0OfkRE",
     "code": {
       "country": "MA",
       "category": "",
       "package": ""
     },
-    "stream": "",
-    "status": "",
-    "new": false,
-    "visible": true
-  },
-  {
-    "id": 1538,
-    "name": {
-      "ar": "",
-      "en": "Athaqafia"
-    },
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Arrabiaa.jpg",
-    "code": {
-      "country": "MA",
-      "category": "",
-      "package": ""
-    },
-    "stream": "",
-    "status": "",
+    "stream": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8",
+    "status": "online",
     "new": false,
     "visible": true
   },
@@ -8964,7 +8879,7 @@
       "ar": "",
       "en": "M24 TV"
     },
-    "logo": "https://i.imgur.com/a7CSWcN.png",
+    "logo": "bvtjWTm",
     "code": {
       "country": "MA",
       "category": "",
@@ -8995,10 +8910,10 @@
   {
     "id": 14550,
     "name": {
-      "ar": "",
-      "en": "Medi 1 TV Arabic"
+      "ar": "ميدي 1 ",
+      "en": "Medi 1"
     },
-    "logo": "https://i.imgur.com/MosTwQW.png",
+    "logo": "4zomsrO",
     "code": {
       "country": "MA",
       "category": "",
@@ -9063,27 +8978,27 @@
   {
     "id": 21421,
     "name": {
-      "ar": "",
+      "ar": "الأمازيغية",
       "en": "Tamazight"
     },
-    "logo": "https://i.imgur.com/uC6IF9P.png",
+    "logo": "tJLUMDa",
     "code": {
       "country": "MA",
       "category": "",
       "package": ""
     },
-    "stream": "",
-    "status": "",
+    "stream": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8",
+    "status": "online",
     "new": false,
     "visible": true
   },
   {
     "id": 21732,
     "name": {
-      "ar": "",
+      "ar": "تيلي ماروك",
       "en": "Télé Maroc"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Logotelemaroc.jpeg",
+    "logo": "NA7Agqb",
     "code": {
       "country": "MA",
       "category": "",
