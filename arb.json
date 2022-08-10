@@ -15528,7 +15528,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "",
+    "stream": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1660120510/ei/XRnzYuu_O8j11gKj9p6gDQ/ip/185.22.154.19/id/QnUGHjEIJc0.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr2---sn-hxqpuxa-jho6.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/lT-Khip-IrimOQo3o-tDux8WIInmZCk/vprv/1/playlist_type/DVR/initcwndbps/571250/mh/mt/mip/105.189.10.36/mm/44/mn/sn-hxqpuxa-jho6/ms/lva/mv/m/mvi/2/pl/16/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1660098518/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AOq0QJ8wRQIgbheDcXpPubvpn6uojZd0DeuzQsUX0J7LM-y88lYCC3QCIQCbvuvci-M-5kec5ojy08en935T-5QwaBtLkfY6XnbXKg%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgcdYAkZdsMSRLsnlnG2FXEAsNh_L0Np-ZZh-lueacFoUCIQDRAr1h3T-m_CGjraDZd5bDlOAWergjXBvn4DN-5t30Rw%3D%3D/playlist/index.m3u8",
     "status": "offline",
     "new": false,
     "visible": true
