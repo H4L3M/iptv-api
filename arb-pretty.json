@@ -12,7 +12,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://dai.ly/x74wje5",
+    "stream": "http://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://dai.ly/x74wje5",
     "status": "online",
     "new": false,
     "visible": true
@@ -228,7 +228,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.dailymotion.com/video/x74wje5",
+    "stream": "http://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.dailymotion.com/video/x74wje5",
     "status": "online",
     "new": false,
     "visible": true
@@ -606,7 +606,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.youtube.com/c/cnbcarabiaTV/live",
+    "stream": "http://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.youtube.com/c/cnbcarabiaTV/live",
     "status": "online",
     "new": false,
     "visible": true
@@ -660,7 +660,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8",
+    "stream": "http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8",
     "status": "online",
     "new": false,
     "visible": true
@@ -1020,7 +1020,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://multies.xyz:8000/live/22-5-MbC2-Mx-AcT/G8bwyFcnsM/106.m3u8",
+    "stream": "http://multies.xyz:8000/live/22-5-MbC2-Mx-AcT/G8bwyFcnsM/106.m3u8",
     "status": "error",
     "new": false,
     "visible": true
@@ -1938,7 +1938,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://82.114.67.178:8081/hls/PeaceTV.m3u8",
+    "stream": "http://82.114.67.178:8081/hls/PeaceTV.m3u8",
     "status": "online",
     "new": false,
     "visible": true
@@ -2064,7 +2064,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://51.210.199.29/hls/stream.m3u8",
+    "stream": "http://51.210.199.29/hls/stream.m3u8",
     "status": "online",
     "new": false,
     "visible": true
@@ -2136,7 +2136,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://youtube.com/channel/UCn8lMRYDANs_1yAL3iuw7_g/live",
+    "stream": "http://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://youtube.com/channel/UCn8lMRYDANs_1yAL3iuw7_g/live",
     "status": "error",
     "new": false,
     "visible": true
@@ -2280,7 +2280,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://51.210.199.1/hls/stream.m3u8",
+    "stream": "http://51.210.199.1/hls/stream.m3u8",
     "status": "timeout",
     "new": false,
     "visible": true
@@ -2586,7 +2586,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://185.105.4.106:1935/live/Bahrain+TV/playlist.m3u8",
+    "stream": "http://185.105.4.106:1935/live/Bahrain+TV/playlist.m3u8",
     "status": "online",
     "new": false,
     "visible": true
@@ -2676,7 +2676,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://echorouk-live-tv.dzsecurity.net:8081/echo/EchoroukNews/playlist.m3u8",
+    "stream": "http://echorouk-live-tv.dzsecurity.net:8081/echo/EchoroukNews/playlist.m3u8",
     "status": "timeout",
     "new": false,
     "visible": true
@@ -3108,7 +3108,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.youtube.com/c/alghadtv/live",
+    "stream": "http://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.youtube.com/c/alghadtv/live",
     "status": "online",
     "new": false,
     "visible": true
@@ -3396,7 +3396,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.youtube.com/c/cbcstream/live",
+    "stream": "http://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.youtube.com/c/cbcstream/live",
     "status": "error",
     "new": false,
     "visible": true
@@ -3414,7 +3414,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.youtube.com/c/CBCDramaStream/live",
+    "stream": "http://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.youtube.com/c/CBCDramaStream/live",
     "status": "error",
     "new": false,
     "visible": true
@@ -3432,7 +3432,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.youtube.com/c/CBCSofraStream/live",
+    "stream": "http://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.youtube.com/c/CBCSofraStream/live",
     "status": "error",
     "new": false,
     "visible": true
@@ -3792,7 +3792,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.youtube.com/channel/UC65F33K2cXk9hGDbOQYhTOw/live",
+    "stream": "http://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.youtube.com/channel/UC65F33K2cXk9hGDbOQYhTOw/live",
     "status": "online",
     "new": false,
     "visible": true
@@ -4062,7 +4062,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.youtube.com/channel/UCg5uHOxrP5GkMWldOavPKGQ/live",
+    "stream": "http://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.youtube.com/channel/UCg5uHOxrP5GkMWldOavPKGQ/live",
     "status": "error",
     "new": false,
     "visible": true
@@ -4152,7 +4152,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://livestreaming5.onlinehorizons.net/hls-live/NTNNileCinema/_definst_/liveevent/livestream.m3u8",
+    "stream": "http://livestreaming5.onlinehorizons.net/hls-live/NTNNileCinema/_definst_/liveevent/livestream.m3u8",
     "status": "online",
     "new": false,
     "visible": true
@@ -4170,7 +4170,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://livestreaming5.onlinehorizons.net/hls-live/NTNNileComedy/_definst_/liveevent/livestream.m3u8",
+    "stream": "http://livestreaming5.onlinehorizons.net/hls-live/NTNNileComedy/_definst_/liveevent/livestream.m3u8",
     "status": "error",
     "new": false,
     "visible": true
@@ -4188,7 +4188,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://livestreaming5.onlinehorizons.net/hls-live/NTNNileCulture/_definst_/liveevent/livestream.m3u8",
+    "stream": "http://livestreaming5.onlinehorizons.net/hls-live/NTNNileCulture/_definst_/liveevent/livestream.m3u8",
     "status": "error",
     "new": false,
     "visible": true
@@ -4224,7 +4224,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://livestreaming5.onlinehorizons.net/hls-live/Learning1/_definst_/liveevent/livestream.m3u8",
+    "stream": "http://livestreaming5.onlinehorizons.net/hls-live/Learning1/_definst_/liveevent/livestream.m3u8",
     "status": "error",
     "new": false,
     "visible": true
@@ -4242,7 +4242,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://livestreaming5.onlinehorizons.net/hls-live/NTNNileFamily/_definst_/liveevent/livestream.m3u8",
+    "stream": "http://livestreaming5.onlinehorizons.net/hls-live/NTNNileFamily/_definst_/liveevent/livestream.m3u8",
     "status": "error",
     "new": false,
     "visible": true
@@ -4260,7 +4260,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://livestreaming5.onlinehorizons.net/hls-live/NTNNileLife/_definst_/liveevent/livestream.m3u8",
+    "stream": "http://livestreaming5.onlinehorizons.net/hls-live/NTNNileLife/_definst_/liveevent/livestream.m3u8",
     "status": "online",
     "new": false,
     "visible": true
@@ -4296,7 +4296,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://livestreaming5.onlinehorizons.net/hls-live/NTNNileSport/_definst_/liveevent/livestream.m3u8",
+    "stream": "http://livestreaming5.onlinehorizons.net/hls-live/NTNNileSport/_definst_/liveevent/livestream.m3u8",
     "status": "error",
     "new": false,
     "visible": true
@@ -4368,7 +4368,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://media6.smc-host.com:1935/omgchannel.net/omgtv/playlist.m3u8",
+    "stream": "http://media6.smc-host.com:1935/omgchannel.net/omgtv/playlist.m3u8",
     "status": "online",
     "new": false,
     "visible": true
@@ -4386,7 +4386,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://media6.smc-host.com:1935/omgchannel.net/omgseries/playlist.m3u8",
+    "stream": "http://media6.smc-host.com:1935/omgchannel.net/omgseries/playlist.m3u8",
     "status": "online",
     "new": false,
     "visible": true
@@ -4584,7 +4584,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://rotana.net/live-cinema-egypt",
+    "stream": "http://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://rotana.net/live-cinema-egypt",
     "status": "error",
     "new": false,
     "visible": true
@@ -4620,7 +4620,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.twitch.tv/elbaladtv",
+    "stream": "http://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.twitch.tv/elbaladtv",
     "status": "online",
     "new": false,
     "visible": true
@@ -4818,7 +4818,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://rtmp1.abnsat.com/hls/arabic.m3u8",
+    "stream": "http://rtmp1.abnsat.com/hls/arabic.m3u8",
     "status": "online",
     "new": false,
     "visible": true
@@ -4980,7 +4980,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://streaming.aletejahtv.iq:1935/etejah-newLive/smil:etejahNew.smil/playlist.m3u8",
+    "stream": "http://streaming.aletejahtv.iq:1935/etejah-newLive/smil:etejahNew.smil/playlist.m3u8",
     "status": "online",
     "new": false,
     "visible": true
@@ -5340,7 +5340,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://149.202.79.190:8081/arrafidaintv/publish/playlist.m3u8",
+    "stream": "http://149.202.79.190:8081/arrafidaintv/publish/playlist.m3u8",
     "status": "online",
     "new": false,
     "visible": true
@@ -5412,7 +5412,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://ns8.indexforce.com:1935/home/mystream/playlist.m3u8",
+    "stream": "http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8",
     "status": "online",
     "new": false,
     "visible": true
@@ -5448,7 +5448,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8",
+    "stream": "http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8",
     "status": "online",
     "new": false,
     "visible": true
@@ -5466,7 +5466,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://iptv.repl.co/Arabic/Al_summaria",
+    "stream": "http://iptv.repl.co/Arabic/Al_summaria",
     "status": "error",
     "new": false,
     "visible": true
@@ -5646,7 +5646,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://live.beitolabbas.tv/live/beitolabbastv.m3u8",
+    "stream": "http://live.beitolabbas.tv/live/beitolabbastv.m3u8",
     "status": "error",
     "new": false,
     "visible": true
@@ -5682,7 +5682,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://cdn.liveshell.net:1935/live/cihann/playlist.m3u8",
+    "stream": "http://cdn.liveshell.net:1935/live/cihann/playlist.m3u8",
     "status": "error",
     "new": false,
     "visible": true
@@ -5718,7 +5718,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://91.134.145.75:10001/Dijlah/index.m3u8",
+    "stream": "http://91.134.145.75:10001/Dijlah/index.m3u8",
     "status": "online",
     "new": false,
     "visible": true
@@ -5790,7 +5790,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://51.75.66.91:8080/gksat.mp4",
+    "stream": "http://51.75.66.91:8080/gksat.mp4",
     "status": "error",
     "new": false,
     "visible": true
@@ -6294,7 +6294,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://vimeo.com/event/1243782",
+    "stream": "http://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://vimeo.com/event/1243782",
     "status": "error",
     "new": false,
     "visible": true
@@ -6330,7 +6330,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.youtube.com/c/karbalaatv/live",
+    "stream": "http://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.youtube.com/c/karbalaatv/live",
     "status": "error",
     "new": false,
     "visible": true
@@ -6510,7 +6510,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://ikomg2.s.llnwi.net/kurdsathd/playlist.m3u8",
+    "stream": "http://ikomg2.s.llnwi.net/kurdsathd/playlist.m3u8",
     "status": "online",
     "new": false,
     "visible": true
@@ -6528,7 +6528,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://ikomg2.s.llnwi.net/kurdsatnewshd/playlist.m3u8",
+    "stream": "http://ikomg2.s.llnwi.net/kurdsatnewshd/playlist.m3u8",
     "status": "online",
     "new": false,
     "visible": true
@@ -6852,7 +6852,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://liveshell.net:1935/live/speda084k/playlist.m3u8",
+    "stream": "http://liveshell.net:1935/live/speda084k/playlist.m3u8",
     "status": "error",
     "new": false,
     "visible": true
@@ -7122,7 +7122,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://82.212.74.99:8000/live/8111.m3u8",
+    "stream": "http://82.212.74.99:8000/live/8111.m3u8",
     "status": "timeout",
     "new": false,
     "visible": true
@@ -7266,7 +7266,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8",
+    "stream": "http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8",
     "status": "online",
     "new": false,
     "visible": true
@@ -7482,7 +7482,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.youtube.com/user/toyorlive/live",
+    "stream": "http://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.youtube.com/user/toyorlive/live",
     "status": "online",
     "new": false,
     "visible": true
@@ -7770,7 +7770,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.dailymotion.com/embed/video/x7tchkl",
+    "stream": "http://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.dailymotion.com/embed/video/x7tchkl",
     "status": "online",
     "new": false,
     "visible": true
@@ -7806,7 +7806,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.media.gov.kw/LiveTV.aspx?PanChannel\u003dKTV1",
+    "stream": "http://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.media.gov.kw/LiveTV.aspx?PanChannel\u003dKTV1",
     "status": "online",
     "new": false,
     "visible": true
@@ -7824,7 +7824,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.media.gov.kw/LiveTV.aspx?PanChannel\u003dKTV2",
+    "stream": "http://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.media.gov.kw/LiveTV.aspx?PanChannel\u003dKTV2",
     "status": "online",
     "new": false,
     "visible": true
@@ -7842,7 +7842,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.media.gov.kw/LiveTV.aspx?PanChannel\u003dKTVSportExtra",
+    "stream": "http://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.media.gov.kw/LiveTV.aspx?PanChannel\u003dKTVSportExtra",
     "status": "online",
     "new": false,
     "visible": true
@@ -7860,7 +7860,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.media.gov.kw/LiveTV.aspx?PanChannel\u003dKTVPlus",
+    "stream": "http://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.media.gov.kw/LiveTV.aspx?PanChannel\u003dKTVPlus",
     "status": "online",
     "new": false,
     "visible": true
@@ -7878,7 +7878,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.media.gov.kw/LiveTV.aspx?PanChannel\u003dKTVArabe",
+    "stream": "http://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.media.gov.kw/LiveTV.aspx?PanChannel\u003dKTVArabe",
     "status": "online",
     "new": false,
     "visible": true
@@ -7896,7 +7896,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.media.gov.kw/LiveTV.aspx?PanChannel\u003dKTVEthraa",
+    "stream": "http://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.media.gov.kw/LiveTV.aspx?PanChannel\u003dKTVEthraa",
     "status": "online",
     "new": false,
     "visible": true
@@ -7914,7 +7914,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.media.gov.kw/LiveTV.aspx?PanChannel\u003dKhallikBilbait",
+    "stream": "http://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.media.gov.kw/LiveTV.aspx?PanChannel\u003dKhallikBilbait",
     "status": "online",
     "new": false,
     "visible": true
@@ -7932,7 +7932,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.media.gov.kw/LiveTV.aspx?PanChannel\u003dKTVSports",
+    "stream": "http://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.media.gov.kw/LiveTV.aspx?PanChannel\u003dKTVSports",
     "status": "online",
     "new": false,
     "visible": true
@@ -7950,7 +7950,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.media.gov.kw/LiveTV.aspx?PanChannel\u003dKTVSportPlus",
+    "stream": "http://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.media.gov.kw/LiveTV.aspx?PanChannel\u003dKTVSportPlus",
     "status": "online",
     "new": false,
     "visible": true
@@ -7986,7 +7986,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.youtube.com/c/marinai/live",
+    "stream": "http://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.youtube.com/c/marinai/live",
     "status": "online",
     "new": false,
     "visible": true
@@ -8112,7 +8112,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.dailymotion.com/video/x7ztkw7",
+    "stream": "http://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.dailymotion.com/video/x7ztkw7",
     "status": "online",
     "new": false,
     "visible": true
@@ -8184,7 +8184,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8",
+    "stream": "http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8",
     "status": "online",
     "new": false,
     "visible": true
@@ -8220,7 +8220,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8",
+    "stream": "http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8",
     "status": "online",
     "new": false,
     "visible": true
@@ -8508,7 +8508,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://194.126.33.66/hls/newvision/index.m3u8",
+    "stream": "http://194.126.33.66/hls/newvision/index.m3u8",
     "status": "error",
     "new": false,
     "visible": true
@@ -8652,7 +8652,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://62.182.82.104/OTV/index.m3u8?token\u003dtest",
+    "stream": "http://62.182.82.104/OTV/index.m3u8?token\u003dtest",
     "status": "online",
     "new": false,
     "visible": true
@@ -8796,7 +8796,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://95.85.47.43/libya218news/playlist.m3u8",
+    "stream": "http://95.85.47.43/libya218news/playlist.m3u8",
     "status": "timeout",
     "new": false,
     "visible": true
@@ -8904,7 +8904,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://82.212.74.100:8000/live/8103.m3u8",
+    "stream": "http://82.212.74.100:8000/live/8103.m3u8",
     "status": "online",
     "new": false,
     "visible": true
@@ -9084,7 +9084,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.youtube.com/channel/UCRaoHR6b3zViY9QxfgFNntQ/live",
+    "stream": "http://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.youtube.com/channel/UCRaoHR6b3zViY9QxfgFNntQ/live",
     "status": "online",
     "new": false,
     "visible": true
@@ -9516,7 +9516,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8",
+    "stream": "http://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8",
     "status": "online",
     "new": false,
     "visible": true
@@ -9534,7 +9534,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8",
+    "stream": "http://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8",
     "status": "online",
     "new": false,
     "visible": true
@@ -9552,7 +9552,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8",
+    "stream": "http://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8",
     "status": "online",
     "new": false,
     "visible": true
@@ -9930,7 +9930,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://htvajyal.mada.ps:8888/ajyal/index.m3u8",
+    "stream": "http://htvajyal.mada.ps:8888/ajyal/index.m3u8",
     "status": "online",
     "new": false,
     "visible": true
@@ -10038,7 +10038,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8",
+    "stream": "http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8",
     "status": "online",
     "new": false,
     "visible": true
@@ -10128,7 +10128,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://vstream3.hadara.ps:8081/marahFM_web/web/playlist.m3u8",
+    "stream": "http://vstream3.hadara.ps:8081/marahFM_web/web/playlist.m3u8",
     "status": "online",
     "new": false,
     "visible": true
@@ -10236,7 +10236,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://htvpalsat.mada.ps:8888/PBCLive/index.m3u8",
+    "stream": "http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8",
     "status": "online",
     "new": false,
     "visible": true
@@ -10362,7 +10362,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://htvmada.mada.ps:8888/wattan/index.m3u8",
+    "stream": "http://htvmada.mada.ps:8888/wattan/index.m3u8",
     "status": "online",
     "new": false,
     "visible": true
@@ -10398,7 +10398,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://ott-cdn.ucom.am/s69/index.m3u8",
+    "stream": "http://ott-cdn.ucom.am/s69/index.m3u8",
     "status": "online",
     "new": false,
     "visible": true
@@ -10614,7 +10614,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.youtube.com/user/AlRassoulChannel/live",
+    "stream": "http://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.youtube.com/user/AlRassoulChannel/live",
     "status": "error",
     "new": false,
     "visible": true
@@ -11748,7 +11748,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.youtube.com/ekhbariyatv/live",
+    "stream": "http://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.youtube.com/ekhbariyatv/live",
     "status": "error",
     "new": false,
     "visible": true
@@ -11766,7 +11766,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://82.212.74.3:8000/live/7513.m3u8",
+    "stream": "http://82.212.74.3:8000/live/7513.m3u8",
     "status": "timeout",
     "new": false,
     "visible": true
@@ -11946,7 +11946,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://m.live.net.sa:1935/live/quran/playlist.m3u8",
+    "stream": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
     "status": "online",
     "new": false,
     "visible": true
@@ -11964,7 +11964,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://rotana.net/live-elressalah",
+    "stream": "http://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://rotana.net/live-elressalah",
     "status": "error",
     "new": false,
     "visible": true
@@ -12000,7 +12000,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.aloula.sa/live/saudiatv",
+    "stream": "http://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.aloula.sa/live/saudiatv",
     "status": "online",
     "new": false,
     "visible": true
@@ -12018,7 +12018,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
+    "stream": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
     "status": "online",
     "new": false,
     "visible": true
@@ -12252,7 +12252,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://82.212.74.2:8000/live/7312.m3u8",
+    "stream": "http://82.212.74.2:8000/live/7312.m3u8",
     "status": "timeout",
     "new": false,
     "visible": true
@@ -12378,7 +12378,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://82.212.74.100:8000/live/8130.m3u8",
+    "stream": "http://82.212.74.100:8000/live/8130.m3u8",
     "status": "timeout",
     "new": false,
     "visible": true
@@ -12864,7 +12864,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://82.212.74.2:8000/live/hls/7311.m3u8",
+    "stream": "http://82.212.74.2:8000/live/hls/7311.m3u8",
     "status": "online",
     "new": false,
     "visible": true
@@ -13134,7 +13134,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://rotana.net/live-cinema",
+    "stream": "http://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://rotana.net/live-cinema",
     "status": "timeout",
     "new": false,
     "visible": true
@@ -13188,7 +13188,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://rotana.net/live-clip",
+    "stream": "http://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://rotana.net/live-clip",
     "status": "error",
     "new": false,
     "visible": true
@@ -13206,7 +13206,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://rotana.net/live-comedy",
+    "stream": "http://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://rotana.net/live-comedy",
     "status": "error",
     "new": false,
     "visible": true
@@ -13278,7 +13278,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://rotana.net/live-music",
+    "stream": "http://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://rotana.net/live-music",
     "status": "error",
     "new": false,
     "visible": true
@@ -13332,7 +13332,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.aloula.sa/live/sbc-channel",
+    "stream": "http://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.aloula.sa/live/sbc-channel",
     "status": "online",
     "new": false,
     "visible": true
@@ -13440,7 +13440,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://live.noorlive.com:1935/wesal/wesal1/playlist.m3u8",
+    "stream": "http://live.noorlive.com:1935/wesal/wesal1/playlist.m3u8",
     "status": "timeout",
     "new": false,
     "visible": true
@@ -13476,7 +13476,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://82.212.74.98:8000/live/7815.m3u8",
+    "stream": "http://82.212.74.98:8000/live/7815.m3u8",
     "status": "timeout",
     "new": false,
     "visible": true
@@ -13710,7 +13710,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://live.ditve.tv:1935/sudanbukra/sudanbukra.stream_720p/playlist.m3u8",
+    "stream": "http://live.ditve.tv:1935/sudanbukra/sudanbukra.stream_720p/playlist.m3u8",
     "status": "error",
     "new": false,
     "visible": true
@@ -13926,7 +13926,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://cdn.mediavisionuae.com:1935/live/hctvlive.stream/chunklist.m3u8",
+    "stream": "http://cdn.mediavisionuae.com:1935/live/hctvlive.stream/chunklist.m3u8",
     "status": "error",
     "new": false,
     "visible": true
@@ -14286,7 +14286,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://vod.ortas.sy:1935/oLive/aloula05042022/playlist.m3u8",
+    "stream": "http://vod.ortas.sy:1935/oLive/aloula05042022/playlist.m3u8",
     "status": "error",
     "new": false,
     "visible": true
@@ -14358,7 +14358,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://vod.ortas.sy:1935/oLive/nour05042022/playlist.m3u8",
+    "stream": "http://vod.ortas.sy:1935/oLive/nour05042022/playlist.m3u8",
     "status": "error",
     "new": false,
     "visible": true
@@ -14430,7 +14430,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://163.172.39.215:25461/line/C4@!a3a1@!w72A/55",
+    "stream": "http://163.172.39.215:25461/line/C4@!a3a1@!w72A/55",
     "status": "error",
     "new": false,
     "visible": true
@@ -14448,7 +14448,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/26.m3u8",
+    "stream": "http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/26.m3u8",
     "status": "error",
     "new": false,
     "visible": true
@@ -14466,7 +14466,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://142.132.224.85:1935/redirect/live/smil:mystream1.smil?scheme\u003dm3u8",
+    "stream": "http://142.132.224.85:1935/redirect/live/smil:mystream1.smil?scheme\u003dm3u8",
     "status": "online",
     "new": false,
     "visible": true
@@ -14538,7 +14538,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8",
+    "stream": "http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8",
     "status": "online",
     "new": false,
     "visible": true
@@ -14574,7 +14574,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://vod.ortas.sy:1935/oLive/drama05042022/playlist.m3u8",
+    "stream": "http://vod.ortas.sy:1935/oLive/drama05042022/playlist.m3u8",
     "status": "error",
     "new": false,
     "visible": true
@@ -14610,7 +14610,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://vod.ortas.sy:1935/oLive/sedu05042022/playlist.m3u8",
+    "stream": "http://vod.ortas.sy:1935/oLive/sedu05042022/playlist.m3u8",
     "status": "error",
     "new": false,
     "visible": true
@@ -14628,7 +14628,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://vod.ortas.sy:1935/oLive/snews05042022/playlist.m3u8",
+    "stream": "http://vod.ortas.sy:1935/oLive/snews05042022/playlist.m3u8",
     "status": "error",
     "new": false,
     "visible": true
@@ -14646,7 +14646,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8",
+    "stream": "http://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8",
     "status": "error",
     "new": false,
     "visible": true
@@ -14700,7 +14700,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://82.137.248.16:1935/Ugarit/stream19042021/playlist.m3u8",
+    "stream": "http://82.137.248.16:1935/Ugarit/stream19042021/playlist.m3u8",
     "status": "error",
     "new": false,
     "visible": true
@@ -14772,7 +14772,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://37.187.28.55:1935/bayatv/myStream/playlist.m3u8",
+    "stream": "http://37.187.28.55:1935/bayatv/myStream/playlist.m3u8",
     "status": "error",
     "new": false,
     "visible": true
@@ -14808,7 +14808,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.dailymotion.com/video/k2IuM11CZakq4ZvrUkv",
+    "stream": "http://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.dailymotion.com/video/k2IuM11CZakq4ZvrUkv",
     "status": "online",
     "new": false,
     "visible": true
@@ -14862,7 +14862,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.youtube.com/c/RadioIfmTunisia/live",
+    "stream": "http://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.youtube.com/c/RadioIfmTunisia/live",
     "status": "online",
     "new": false,
     "visible": true
@@ -14970,7 +14970,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://142.44.214.231:1935/saheltv/myStream/playlist.m3u8",
+    "stream": "http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8",
     "status": "online",
     "new": false,
     "visible": true
@@ -15042,7 +15042,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://streaming.tunisna.tv:1935/live/tunisna/playlist.m3u8",
+    "stream": "http://streaming.tunisna.tv:1935/live/tunisna/playlist.m3u8",
     "status": "timeout",
     "new": false,
     "visible": true
@@ -15060,7 +15060,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://217.182.137.206/tunisie1.m3u8",
+    "stream": "http://217.182.137.206/tunisie1.m3u8",
     "status": "error",
     "new": false,
     "visible": true
@@ -15078,7 +15078,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.youtube.com/c/Watania2Replay/live",
+    "stream": "http://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.youtube.com/c/Watania2Replay/live",
     "status": "error",
     "new": false,
     "visible": true
@@ -15150,7 +15150,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://195.35.85.115:8000/play/a0fr",
+    "stream": "http://195.35.85.115:8000/play/a0fr",
     "status": "timeout",
     "new": false,
     "visible": true
@@ -15186,7 +15186,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://82.212.74.2:8000/live/7307.m3u8",
+    "stream": "http://82.212.74.2:8000/live/7307.m3u8",
     "status": "error",
     "new": false,
     "visible": true
@@ -15204,7 +15204,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://82.212.74.3:8000/live/hls/7512.m3u8",
+    "stream": "http://82.212.74.3:8000/live/hls/7512.m3u8",
     "status": "online",
     "new": false,
     "visible": true
@@ -15258,7 +15258,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://82.212.74.99:8000/live/hls/8173.m3u8",
+    "stream": "http://82.212.74.99:8000/live/hls/8173.m3u8",
     "status": "error",
     "new": false,
     "visible": true
@@ -15366,7 +15366,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.youtube.com/channel/UCxA_zZwALQMmVMSZyLKC-Nw/live",
+    "stream": "http://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.youtube.com/channel/UCxA_zZwALQMmVMSZyLKC-Nw/live",
     "status": "online",
     "new": false,
     "visible": true
@@ -15402,7 +15402,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.twitch.tv/hadhramauttv1",
+    "stream": "http://free.fullspeed.tv/iptv-query?streaming-ip\u003dhttps://www.twitch.tv/hadhramauttv1",
     "status": "online",
     "new": false,
     "visible": true
@@ -15438,7 +15438,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://82.212.74.98:8000/live/hls/7726.m3u8",
+    "stream": "http://82.212.74.98:8000/live/hls/7726.m3u8",
     "status": "online",
     "new": false,
     "visible": true
