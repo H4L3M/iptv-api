@@ -1,0 +1,24 @@
+{
+"categories": [
+{
+"name": {
+"ar": "المغرب",
+"en": "Morocco"
+},
+"logo": "https://cdn-icons-png.flaticon.com/512/299/299782.png",
+"code": "MA",
+"id": 212,
+"visible": true
+},
+{
+"name": {
+"ar": "الجزائر",
+"en": "Algeria"
+},
+"logo": "https://cdn-icons-png.flaticon.com/512/299/299804.png",
+"code": "DZ",
+"id": 213,
+"visible": true
+}
+]
+}
