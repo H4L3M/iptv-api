@@ -1,24 +1,634 @@
 {
   "categories": [
     {
+      "visible": true,
       "name": {
-        "ar": "المغرب",
-        "en": "Morocco"
+        "en": "Cultural",
+        "ar": "الثقافية"
       },
-      "logo": "https://cdn-icons-png.flaticon.com/512/299/299782.png",
-      "code": "MA",
-      "id": 212,
+      "code": "CU",
+      "logo": "https://i.imgur.com/sUJ1x0X.png",
+      "id": "03.6"
+    },
+    {
+      "id": "03.2",
+      "name": {
+        "ar": "أطفال",
+        "en": "Kids"
+      },
+      "visible": true,
+      "logo": "https://i.imgur.com/z7xZr6m.png",
+      "code": "KI"
+    },
+    {
+      "code": "VA",
+      "logo": "https://i.imgur.com/7567rTh.png",
+      "visible": true,
+      "id": "03.6",
+      "name": {
+        "en": "Mix",
+        "ar": "منوعات"
+      }
+    },
+    {
+      "code": "MO",
+      "id": "03.3",
+      "logo": "https://i.imgur.com/sZzyLCq.png",
+      "name": {
+        "ar": "أفلام",
+        "en": "Movies"
+      },
+      "visible": true
+    },
+    {
+      "visible": true,
+      "id": "03.5",
+      "name": {
+        "ar": "موسيقى",
+        "en": "Music"
+      },
+      "code": "MU",
+      "logo": "https://i.imgur.com/vD6rhzz.png"
+    },
+    {
+      "id": "03.1",
+      "logo": "https://i.imgur.com/82LNWHL.png",
+      "visible": true,
+      "code": "NE",
+      "name": {
+        "en": "News",
+        "ar": "أخبار"
+      }
+    },
+    {
+      "code": "IS",
+      "logo": "https://i.imgur.com/3QDJT6o.png",
+      "name": {
+        "ar": "دينية",
+        "en": "Religion"
+      },
+      "id": "03.4",
       "visible": true
     },
     {
       "name": {
+        "ar": "رياضة",
+        "en": "Sports"
+      },
+      "id": "03",
+      "visible": true,
+      "code": "SP",
+      "logo": "https://i.imgur.com/8rrf4Y6.png"
+    },
+    {
+      "code": "ALB",
+      "logo": "https://cdn4.iconfinder.com/data/icons/flat-circle-flag/182/albania_circle_flag-512.png",
+      "id": "52",
+      "visible": true,
+      "name": {
+        "en": "Albania",
+        "ar": "ألبانيا"
+      }
+    },
+    {
+      "logo": "https://i.imgur.com/MsxOFdH.png",
+      "name": {
         "ar": "الجزائر",
         "en": "Algeria"
       },
-      "logo": "https://cdn-icons-png.flaticon.com/512/299/299804.png",
-      "code": "DZ",
-      "id": 213,
+      "code": "DZA",
+      "id": "05",
       "visible": true
+    },
+    {
+      "name": {
+        "ar": "الأرجنتين",
+        "en": "Argentina"
+      },
+      "id": "46",
+      "code": "ARG",
+      "visible": true,
+      "logo": "https://cdn.countryflags.com/thumbs/argentina/flag-round-250.png"
+    },
+    {
+      "visible": true,
+      "id": "44",
+      "name": {
+        "ar": "أستراليا",
+        "en": "Australia"
+      },
+      "code": "AUS",
+      "logo": "https://cdn4.iconfinder.com/data/icons/flat-circle-flag/182/circle_flag_australia-512.png"
+    },
+    {
+      "code": "AUT",
+      "logo": "https://i.imgur.com/gt2sfkR.png",
+      "id": "36",
+      "name": {
+        "ar": "النمسا",
+        "en": "Austria"
+      },
+      "visible": true
+    },
+    {
+      "name": {
+        "ar": "البحرين",
+        "en": "Bahrain"
+      },
+      "id": "19",
+      "logo": "https://i.imgur.com/68nenut.png",
+      "visible": true,
+      "code": "BHR"
+    },
+    {
+      "logo": "https://i.imgur.com/gzbo4uB.png",
+      "id": "35",
+      "name": {
+        "ar": "بلجيكا",
+        "en": "Belgium"
+      },
+      "visible": true,
+      "code": "BEL"
+    },
+    {
+      "name": {
+        "en": "Brazil",
+        "ar": "البرازيل"
+      },
+      "visible": true,
+      "id": "43",
+      "code": "BRA",
+      "logo": "https://i.imgur.com/fgkIeVL.png"
+    },
+    {
+      "logo": "https://i.imgur.com/vsUelUg.png",
+      "id": "41",
+      "visible": true,
+      "code": "CAN",
+      "name": {
+        "ar": "كندا",
+        "en": "Canada"
+      }
+    },
+    {
+      "id": "48",
+      "logo": "https://i.imgur.com/cUASDaG.png",
+      "visible": true,
+      "code": "CHN",
+      "name": {
+        "en": "china",
+        "ar": "الصين"
+      }
+    },
+    {
+      "id": "51",
+      "logo": "https://i.imgur.com/zrCexB2.jpg",
+      "code": "DNK",
+      "name": {
+        "ar": "الدنمارك",
+        "en": "Denmark"
+      },
+      "visible": true
+    },
+    {
+      "id": "37",
+      "visible": true,
+      "code": "ECU",
+      "logo": "https://i.imgur.com/ZBAsjJh.png",
+      "name": {
+        "en": "Ecuador",
+        "ar": "أكوادور"
+      }
+    },
+    {
+      "code": "EGY",
+      "logo": "https://i.imgur.com/sKRvYO6.png",
+      "visible": true,
+      "name": {
+        "en": "Egypt",
+        "ar": "مصر"
+      },
+      "id": "07"
+    },
+    {
+      "logo": "https://i.imgur.com/uMMUogK.png",
+      "visible": true,
+      "code": "ARE",
+      "name": {
+        "en": "Emirates",
+        "ar": "الإمارات"
+      },
+      "id": "10"
+    },
+    {
+      "id": "47",
+      "visible": true,
+      "code": "FIN",
+      "logo": "https://images-na.ssl-images-amazon.com/images/I/21IpUJIHxmL._AC_.jpg",
+      "name": {
+        "en": "Finland",
+        "ar": "فنلندا"
+      }
+    },
+    {
+      "visible": true,
+      "logo": "https://i.imgur.com/GEpnS2w.png",
+      "id": "27",
+      "name": {
+        "en": "France",
+        "ar": "فرنسا"
+      },
+      "code": "FRA"
+    },
+    {
+      "name": {
+        "en": "Germany",
+        "ar": "ألمانيا"
+      },
+      "id": "32",
+      "logo": "https://i.imgur.com/sJi9WfT.png",
+      "code": "DEU",
+      "visible": true
+    },
+    {
+      "id": "50",
+      "logo": "https://i.imgur.com/3U7wcyj.png",
+      "name": {
+        "en": "India",
+        "ar": "الهند"
+      },
+      "visible": true,
+      "code": "IND"
+    },
+    {
+      "id": "22.1",
+      "name": {
+        "ar": "إيران",
+        "en": "Iran"
+      },
+      "logo": "https://i.imgur.com/ZQEGdn9.png",
+      "code": "IRN",
+      "visible": true
+    },
+    {
+      "code": "IRQ",
+      "id": "15",
+      "visible": true,
+      "name": {
+        "en": "Iraq",
+        "ar": "العراق"
+      },
+      "logo": "https://i.imgur.com/P8hiKIQ.png"
+    },
+    {
+      "name": {
+        "ar": "إيطاليا",
+        "en": "Italy"
+      },
+      "visible": true,
+      "id": "30",
+      "logo": "https://i.imgur.com/YZEuuAo.png",
+      "code": "ITA"
+    },
+    {
+      "name": {
+        "en": "Jordan",
+        "ar": "الأردن"
+      },
+      "id": "21",
+      "code": "JOR",
+      "visible": true,
+      "logo": "https://i.imgur.com/ewv5cRm.png"
+    },
+    {
+      "visible": true,
+      "name": {
+        "en": "Kurdistan",
+        "ar": "كرديستان"
+      },
+      "code": "KUR",
+      "logo": "https://cdn.iconscout.com/icon/premium/png-512-thumb/kurdish-1-550379.png",
+      "id": "22.1"
+    },
+    {
+      "visible": true,
+      "id": "16",
+      "name": {
+        "ar": "الكويت",
+        "en": "Kuwait"
+      },
+      "logo": "https://i.imgur.com/jle7XuV.png",
+      "code": "KWT"
+    },
+    {
+      "visible": true,
+      "code": "LBN",
+      "logo": "https://i.imgur.com/XQj4lFA.png",
+      "name": {
+        "ar": "لبنان",
+        "en": "Lebanon"
+      },
+      "id": "17"
+    },
+    {
+      "visible": true,
+      "code": "LBY",
+      "logo": "https://i.imgur.com/g3xthJ9.png",
+      "id": "08",
+      "name": {
+        "en": "Libya",
+        "ar": "ليبيا"
+      }
+    },
+    {
+      "id": "04",
+      "logo": "https://i.imgur.com/2Dt6jmc.png",
+      "visible": true,
+      "code": "MAR",
+      "name": {
+        "en": "Morocco",
+        "ar": "المغرب"
+      }
+    },
+    {
+      "id": "45",
+      "code": "NLD",
+      "logo": "https://cdn.countryflags.com/thumbs/netherlands/flag-round-250.png",
+      "name": {
+        "ar": "هولندا",
+        "en": "Netherlands"
+      },
+      "visible": true
+    },
+    {
+      "logo": "https://i.imgur.com/PjQKKo2.png",
+      "code": "NGA",
+      "id": "22",
+      "visible": true,
+      "name": {
+        "en": "Nigeria",
+        "ar": "نجيريا"
+      }
+    },
+    {
+      "logo": "https://i.imgur.com/Jmcdic5.png",
+      "code": "OMN",
+      "id": "18",
+      "visible": true,
+      "name": {
+        "ar": "عمان",
+        "en": "Oman"
+      }
+    },
+    {
+      "logo": "https://i.imgur.com/pLCADbj.png",
+      "visible": true,
+      "name": {
+        "ar": "فلسطين",
+        "en": "Palestine"
+      },
+      "code": "PSE",
+      "id": "13"
+    },
+    {
+      "code": "POL",
+      "id": "33",
+      "name": {
+        "en": "Poland",
+        "ar": "بولندا"
+      },
+      "logo": "https://i.imgur.com/wdJaT8o.png",
+      "visible": true
+    },
+    {
+      "name": {
+        "en": "Portugal",
+        "ar": "البرتغال"
+      },
+      "visible": true,
+      "code": "PRT",
+      "id": "29",
+      "logo": "https://i.imgur.com/FPJtaGH.png"
+    },
+    {
+      "id": "20",
+      "name": {
+        "ar": "قطر",
+        "en": "Qatar"
+      },
+      "code": "QAT",
+      "logo": "https://i.imgur.com/sNK2EZc.png",
+      "visible": true
+    },
+    {
+      "logo": "https://i.imgur.com/g1ViuUl.png",
+      "id": "40",
+      "code": "RUS",
+      "visible": true,
+      "name": {
+        "en": "Russia",
+        "ar": "روسيا"
+      }
+    },
+    {
+      "visible": true,
+      "logo": "https://i.imgur.com/36OB2n3.png",
+      "name": {
+        "en": "Saudi Arabia",
+        "ar": "السعودية"
+      },
+      "code": "SAU",
+      "id": "11"
+    },
+    {
+      "visible": true,
+      "name": {
+        "ar": "إسبانيا",
+        "en": "Spain"
+      },
+      "logo": "https://i.imgur.com/HP6HjBX.png",
+      "id": "28",
+      "code": "ESP"
+    },
+    {
+      "code": "SDN",
+      "id": "09",
+      "name": {
+        "ar": "السودان",
+        "en": "Sudan"
+      },
+      "visible": true,
+      "logo": "https://i.imgur.com/GcWPRsf.png"
+    },
+    {
+      "name": {
+        "ar": "السويد",
+        "en": "Sweden"
+      },
+      "visible": true,
+      "id": "49",
+      "logo": "https://i.imgur.com/WTvJf9e.png",
+      "code": "SWE"
+    },
+    {
+      "code": "SYR",
+      "id": "14",
+      "visible": true,
+      "logo": "https://i.imgur.com/h2dY4v6.png",
+      "name": {
+        "ar": "سوريا",
+        "en": "Syria"
+      }
+    },
+    {
+      "code": "THA",
+      "logo": "https://i.imgur.com/HcYT7XX.png",
+      "name": {
+        "en": "Thailand",
+        "ar": "تايلند"
+      },
+      "id": "39",
+      "visible": true
+    },
+    {
+      "name": {
+        "en": "Tunisia",
+        "ar": "تونس"
+      },
+      "id": "06",
+      "visible": true,
+      "code": "TUN",
+      "logo": "https://i.imgur.com/yLQyOrp.png"
+    },
+    {
+      "name": {
+        "en": "Turkish",
+        "ar": "تركيا"
+      },
+      "visible": true,
+      "id": "22",
+      "logo": "https://i.imgur.com/qllquiK.png",
+      "code": "TUR"
+    },
+    {
+      "visible": true,
+      "id": "34",
+      "name": {
+        "ar": "أوكرانيا",
+        "en": "Ukraine"
+      },
+      "logo": "https://i.imgur.com/nOeQoTQ.png",
+      "code": "UKR"
+    },
+    {
+      "id": "31",
+      "logo": "https://i.imgur.com/36o5K6C.png",
+      "visible": true,
+      "code": "GBR",
+      "name": {
+        "ar": "بريطانيا",
+        "en": "United Kingdom"
+      }
+    },
+    {
+      "code": "USA",
+      "logo": "https://i.imgur.com/EpS4q2r.png",
+      "id": "38",
+      "visible": true,
+      "name": {
+        "en": "United States",
+        "ar": "أمريكا"
+      }
+    },
+    {
+      "code": "YEM",
+      "logo": "https://i.imgur.com/9IUQwCP.png",
+      "id": "21.1",
+      "name": {
+        "ar": "اليمن",
+        "en": "Yemen"
+      },
+      "visible": true
+    },
+    {
+      "code": "ART",
+      "name": {
+        "en": "ART",
+        "ar": "أرت"
+      },
+      "id": "03.01",
+      "logo": "https://i.imgur.com/bexwKVM.jpg",
+      "visible": true
+    },
+    {
+      "name": {
+        "ar": "بيين",
+        "en": "beIN"
+      },
+      "logo": "https://i.imgur.com/themqKV.png",
+      "id": "02",
+      "visible": true,
+      "code": "BEIN"
+    },
+    {
+      "visible": false,
+      "logo": "https://mostaql.hsoubcdn.com/uploads/409474-I1PA1-1538089705-02.jpg",
+      "name": {
+        "en": "Iptv Channel",
+        "ar": "أي بي تيفي"
+      },
+      "code": "IPTV",
+      "id": "02"
+    },
+    {
+      "id": "03",
+      "code": "MBC",
+      "name": {
+        "en": "MBC",
+        "ar": "ام بي سي"
+      },
+      "visible": true,
+      "logo": "https://i.imgur.com/1vFVk1q.png"
+    },
+    {
+      "code": "NEF",
+      "visible": false,
+      "id": "01",
+      "name": {
+        "en": "NETFLEX",
+        "ar": "نتفليكس"
+      },
+      "logo": "https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png"
+    },
+    {
+      "visible": true,
+      "logo": "https://i.imgur.com/1uLCFNC.png",
+      "code": "OSN",
+      "id": "03",
+      "name": {
+        "ar": "أو إس إن",
+        "en": "OSN"
+      }
+    },
+    {
+      "logo": "https://i.imgur.com/themqKV.png",
+      "code": "POR",
+      "name": {
+        "en": "360 - 244",
+        "ar": "360 - 244"
+      },
+      "visible": true,
+      "id": "02"
+    },
+    {
+      "id": "02",
+      "code": "RAI",
+      "logo": "https://store-images.s-microsoft.com/image/apps.18683.9007199266248326.bb4843df-b406-4006-be49-8e1b61bdc29d.3351b6e9-c7e8-49b7-ad94-456b82ce4c0b?mode=scale&q=90&h=300&w=300",
+      "visible": true,
+      "name": {
+        "ar": "راي سبورت",
+        "en": "Rai"
+      }
     }
   ]
 }
