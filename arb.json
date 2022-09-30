@@ -977,17 +977,17 @@
       "ar": "",
       "en": "MBC 1"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/512px-Mbc1logo.png",
+    "logo": "https://i.imgur.com/eeimKt8.png",
     "code": {
       "country": "AE",
       "category": "general",
-      "package": ""
+      "package": "MBC"
     },
     "user_agent": "",
     "stream": "https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8",
     "status": "blocked",
     "new": false,
-    "visible": true
+    "visible": false
   },
   {
     "id": 14556,
@@ -995,11 +995,11 @@
       "ar": "",
       "en": "MBC 1 HD"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/512px-Mbc1logo.png",
+    "logo": "https://i.imgur.com/eeimKt8.png",
     "code": {
       "country": "AE",
       "category": "general",
-      "package": ""
+      "package": "MBC"
     },
     "user_agent": "",
     "stream": "",
@@ -1013,17 +1013,17 @@
       "ar": "",
       "en": "MBC 2"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Mbc-2.png",
+    "logo": "https://i.imgur.com/YmA5MUo.png",
     "code": {
       "country": "AE",
       "category": "general",
-      "package": ""
+      "package": "MBC"
     },
     "user_agent": "",
-    "stream": "http://multies.xyz:8000/live/22-5-MbC2-Mx-AcT/G8bwyFcnsM/106.m3u8",
+    "stream": "https://shls-mbc2-prod.shahid.net/mbc2-prod.m3u8",
     "status": "error",
     "new": false,
-    "visible": true
+    "visible": false
   },
   {
     "id": 14559,
@@ -1031,14 +1031,14 @@
       "ar": "",
       "en": "MBC 2 HD"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Mbc-2.png",
+    "logo": "https://i.imgur.com/YmA5MUo.png",
     "code": {
       "country": "AE",
       "category": "general",
-      "package": ""
+      "package": "MBC"
     },
     "user_agent": "",
-    "stream": "",
+    "stream": "https://shls-mbc2-prod.shahid.net/mbc2-prod.m3u8",
     "status": "offline",
     "new": false,
     "visible": true
@@ -1049,17 +1049,17 @@
       "ar": "",
       "en": "MBC 3"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MBC_3_Transparent_Background_Logo.png/512px-MBC_3_Transparent_Background_Logo.png",
+    "logo": "https://i.imgur.com/jnAD9En.png",
     "code": {
       "country": "AE",
       "category": "kids",
-      "package": ""
+      "package": "MBC"
     },
     "user_agent": "",
     "stream": "https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8",
     "status": "online",
     "new": false,
-    "visible": true
+    "visible": false
   },
   {
     "id": 14561,
@@ -1067,11 +1067,11 @@
       "ar": "",
       "en": "MBC 3 HD"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MBC_3_Transparent_Background_Logo.png/512px-MBC_3_Transparent_Background_Logo.png",
+    "logo": "https://i.imgur.com/jnAD9En.png",
     "code": {
       "country": "AE",
       "category": "kids",
-      "package": ""
+      "package": "MBC"
     },
     "user_agent": "",
     "stream": "",
@@ -1085,11 +1085,11 @@
       "ar": "",
       "en": "MBC 4"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/MBC_4_TV_Channel_Logo.png/512px-MBC_4_TV_Channel_Logo.png",
+    "logo": "https://i.imgur.com/aYeMIBZ.png",
     "code": {
       "country": "AE",
       "category": "general",
-      "package": ""
+      "package": "MBC"
     },
     "user_agent": "",
     "stream": "https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8",
@@ -1103,11 +1103,11 @@
       "ar": "",
       "en": "MBC 5"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/5_MBC.webp/512px-5_MBC.webp.png",
+    "logo": "https://i.imgur.com/xnSgvnU.png",
     "code": {
       "country": "AE",
       "category": "general",
-      "package": ""
+      "package": "MBC"
     },
     "user_agent": "",
     "stream": "https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8",
@@ -1121,11 +1121,11 @@
       "ar": "",
       "en": "MBC Action"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MBC_Action_TV_Channel_Logo.png/512px-MBC_Action_TV_Channel_Logo.png",
+    "logo": "https://i.imgur.com/FmJtPXF.png",
     "code": {
       "country": "AE",
       "category": "movies",
-      "package": ""
+      "package": "MBC"
     },
     "user_agent": "",
     "stream": "https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8",
@@ -1139,11 +1139,11 @@
       "ar": "",
       "en": "MBC Action HD"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MBC_Action_TV_Channel_Logo.png/512px-MBC_Action_TV_Channel_Logo.png",
+    "logo": "https://i.imgur.com/FmJtPXF.png",
     "code": {
       "country": "AE",
       "category": "movies",
-      "package": ""
+      "package": "MBC"
     },
     "user_agent": "",
     "stream": "",
@@ -1157,11 +1157,11 @@
       "ar": "",
       "en": "MBC Bollywood"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/MBC_Bollywood_TV_Channel_Logo.png/512px-MBC_Bollywood_TV_Channel_Logo.png",
+    "logo": "https://i.imgur.com/J5zNrg8.png",
     "code": {
       "country": "AE",
       "category": "general",
-      "package": ""
+      "package": "MBC"
     },
     "user_agent": "",
     "stream": "https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8",
@@ -1175,11 +1175,11 @@
       "ar": "",
       "en": "MBC Drama"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5b/MBC_Drama_TV_Channel_Logo.png",
+    "logo": "https://i.imgur.com/ikOdjZM.png",
     "code": {
       "country": "AE",
       "category": "general",
-      "package": ""
+      "package": "MBC"
     },
     "user_agent": "",
     "stream": "https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8",
@@ -1193,11 +1193,11 @@
       "ar": "",
       "en": "MBC Drama HD"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5b/MBC_Drama_TV_Channel_Logo.png",
+    "logo": "https://i.imgur.com/ikOdjZM.png",
     "code": {
       "country": "AE",
       "category": "general",
-      "package": ""
+      "package": "MBC"
     },
     "user_agent": "",
     "stream": "",
@@ -1215,7 +1215,7 @@
     "code": {
       "country": "AE",
       "category": "music",
-      "package": ""
+      "package": "MBC"
     },
     "user_agent": "",
     "stream": "https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8",
@@ -1229,11 +1229,11 @@
       "ar": "",
       "en": "MBC Max"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f5/MBC_Max_TV_Channel_Logo.png",
+    "logo": "https://i.imgur.com/e0b3Nir.png",
     "code": {
       "country": "AE",
       "category": "movies",
-      "package": ""
+      "package": "MBC"
     },
     "user_agent": "",
     "stream": "",
@@ -1247,11 +1247,11 @@
       "ar": "",
       "en": "MBC Max HD"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f5/MBC_Max_TV_Channel_Logo.png",
+    "logo": "https://i.imgur.com/e0b3Nir.png",
     "code": {
       "country": "AE",
       "category": "movies",
-      "package": ""
+      "package": "MBC"
     },
     "user_agent": "",
     "stream": "",
@@ -1269,7 +1269,7 @@
     "code": {
       "country": "AE",
       "category": "general",
-      "package": ""
+      "package": "MBC"
     },
     "user_agent": "",
     "stream": "https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8",
@@ -1283,11 +1283,11 @@
       "ar": "",
       "en": "MBC+ Drama"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/MBC_Drama_Plus_TV_Channel_Logo.png/512px-MBC_Drama_Plus_TV_Channel_Logo.png",
+    "logo": "https://www.dreamboxgate.com/forum/imgcache/2014/468196_dreambox-sat.com.jpg",
     "code": {
       "country": "AE",
       "category": "movies",
-      "package": ""
+      "package": "MBC"
     },
     "user_agent": "",
     "stream": "https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8",
@@ -1301,11 +1301,11 @@
       "ar": "",
       "en": "MBC+ Drama HD"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/MBC_Drama_Plus_TV_Channel_Logo.png/512px-MBC_Drama_Plus_TV_Channel_Logo.png",
+    "logo": "https://www.dreamboxgate.com/forum/imgcache/2014/468196_dreambox-sat.com.jpg",
     "code": {
       "country": "AE",
       "category": "movies",
-      "package": ""
+      "package": "MBC"
     },
     "user_agent": "",
     "stream": "",
@@ -1323,7 +1323,7 @@
     "code": {
       "country": "AE",
       "category": "",
-      "package": ""
+      "package": "MBC"
     },
     "user_agent": "",
     "stream": "",
@@ -1337,11 +1337,11 @@
       "ar": "",
       "en": "MBC+ Variety"
     },
-    "logo": "https://i.imgur.com/ptN3w2l.png",
+    "logo": "https://i.imgur.com/DjRv5id.png",
     "code": {
       "country": "AE",
       "category": "entertainment",
-      "package": ""
+      "package": "MBC"
     },
     "user_agent": "",
     "stream": "",
@@ -3929,11 +3929,11 @@
       "ar": "",
       "en": "MBC Masr"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MBC_Masr_Logo.png/512px-MBC_Masr_Logo.png",
+    "logo": "https://i.imgur.com/A2mRHh6.png",
     "code": {
       "country": "EG",
       "category": "general",
-      "package": ""
+      "package": "MBC"
     },
     "user_agent": "",
     "stream": "https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8",
@@ -3947,11 +3947,11 @@
       "ar": "",
       "en": "MBC Masr 2"
     },
-    "logo": "https://i.imgur.com/9S96PrQ.png",
+    "logo": "https://i.imgur.com/Yi25bdv.png",
     "code": {
       "country": "EG",
       "category": "",
-      "package": ""
+      "package": "MBC"
     },
     "user_agent": "",
     "stream": "https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8",
@@ -9149,7 +9149,7 @@
       "ar": "",
       "en": "2M Monde"
     },
-    "logo": "https://i.imgur.com/CwwRn4b.png",
+    "logo": "https://i.imgur.com/fzyiFoW.png",
     "code": {
       "country": "MA",
       "category": "general",
@@ -9167,7 +9167,7 @@
       "ar": "",
       "en": "2M National"
     },
-    "logo": "https://www.lyngsat.com/logo/tv/num/2m_monde.png",
+    "logo": "https://i.imgur.com/fzyiFoW.png",
     "code": {
       "country": "MA",
       "category": "",
@@ -9177,7 +9177,7 @@
     "stream": "",
     "status": "offline",
     "new": false,
-    "visible": true
+    "visible": false
   },
   {
     "id": 532,
@@ -9185,7 +9185,7 @@
       "ar": "",
       "en": "Aflam TV"
     },
-    "logo": "https://i.imgur.com/XqQxO9J.png",
+    "logo": "https://i.imgur.com/vniU3Fp.png",
     "code": {
       "country": "MA",
       "category": "",
@@ -9203,7 +9203,7 @@
       "ar": "",
       "en": "Al Aoula"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e4/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89_Al_Aoula_Tv_Logo.png",
+    "logo": "https://i.imgur.com/dBWFaah.png",
     "code": {
       "country": "MA",
       "category": "general",
@@ -9231,7 +9231,7 @@
     "stream": "",
     "status": "offline",
     "new": false,
-    "visible": true
+    "visible": false
   },
   {
     "id": 680,
@@ -9239,7 +9239,7 @@
       "ar": "",
       "en": "Al Aoula Laayoune"
     },
-    "logo": "https://i.imgur.com/ZFHjIVU.png",
+    "logo": "https://i.imgur.com/dBWFaah.png",
     "code": {
       "country": "MA",
       "category": "general",
@@ -9267,7 +9267,7 @@
     "stream": "",
     "status": "offline",
     "new": false,
-    "visible": true
+    "visible": false
   },
   {
     "id": 682,
@@ -9285,7 +9285,7 @@
     "stream": "",
     "status": "offline",
     "new": false,
-    "visible": true
+    "visible": false
   },
   {
     "id": 830,
@@ -9293,7 +9293,7 @@
       "ar": "",
       "en": "Al Maghribia"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/09/Almaghribiax2.png",
+    "logo": "https://i.imgur.com/SdeiuEL.png",
     "code": {
       "country": "MA",
       "category": "general",
@@ -9309,9 +9309,9 @@
     "id": 869,
     "name": {
       "ar": "",
-      "en": "Al Ons TV"
+      "en": "Al Ons"
     },
-    "logo": "https://www.lyngsat.com/logo/tv/aa/al_ons_tv_ma.png",
+    "logo": "https://i.imgur.com/25WYAU2.png",
     "code": {
       "country": "MA",
       "category": "",
@@ -9329,7 +9329,7 @@
       "ar": "",
       "en": "Arrabiaa"
     },
-    "logo": "https://i.imgur.com/FvgdLdG.png",
+    "logo": "https://i.imgur.com/k11zZbT.png",
     "code": {
       "country": "MA",
       "category": "general",
@@ -9347,7 +9347,7 @@
       "ar": "",
       "en": "Arryadia"
     },
-    "logo": "https://i.imgur.com/liFebM9.png",
+    "logo": "https://i.imgur.com/HrvbVB2.png",
     "code": {
       "country": "MA",
       "category": "sports",
@@ -9365,7 +9365,7 @@
       "ar": "",
       "en": "Assadissa"
     },
-    "logo": "https://i.imgur.com/VQUrMjE.png",
+    "logo": "https://i.imgur.com/r0OfkRE.png",
     "code": {
       "country": "MA",
       "category": "general",
@@ -9393,7 +9393,7 @@
     "stream": "",
     "status": "offline",
     "new": false,
-    "visible": true
+    "visible": false
   },
   {
     "id": 3089,
@@ -9419,7 +9419,7 @@
       "ar": "",
       "en": "Chada TV"
     },
-    "logo": "https://www.lyngsat.com/logo/tv/cc/chada-tv-ma.png",
+    "logo": "https://i.imgur.com/Whph7Th.png",
     "code": {
       "country": "MA",
       "category": "",
@@ -9447,7 +9447,7 @@
     "stream": "",
     "status": "offline",
     "new": false,
-    "visible": true
+    "visible": false
   },
   {
     "id": 4751,
@@ -9465,7 +9465,7 @@
     "stream": "",
     "status": "offline",
     "new": false,
-    "visible": true
+    "visible": false
   },
   {
     "id": 14138,
@@ -9491,7 +9491,7 @@
       "ar": "",
       "en": "M24 TV"
     },
-    "logo": "https://i.imgur.com/a7CSWcN.png",
+    "logo": "https://i.imgur.com/bvtjWTm.png",
     "code": {
       "country": "MA",
       "category": "news",
@@ -9507,9 +9507,9 @@
     "id": 14630,
     "name": {
       "ar": "",
-      "en": "Medi 1 TV Afrique"
+      "en": "Medi 1 Afrique"
     },
-    "logo": "https://i.imgur.com/MosTwQW.png",
+    "logo": "https://i.imgur.com/4zomsrO.png",
     "code": {
       "country": "MA",
       "category": "news",
@@ -9525,9 +9525,9 @@
     "id": 14631,
     "name": {
       "ar": "",
-      "en": "Medi 1 TV Arabic"
+      "en": "Medi 1 Arabic"
     },
-    "logo": "https://i.imgur.com/MosTwQW.png",
+    "logo": "https://i.imgur.com/4zomsrO.png",
     "code": {
       "country": "MA",
       "category": "news",
@@ -9543,9 +9543,9 @@
     "id": 14632,
     "name": {
       "ar": "",
-      "en": "Medi 1 TV Maghreb"
+      "en": "Medi 1 Maghreb"
     },
-    "logo": "https://i.imgur.com/MosTwQW.png",
+    "logo": "https://i.imgur.com/4zomsrO.png",
     "code": {
       "country": "MA",
       "category": "news",
@@ -9609,7 +9609,7 @@
     "stream": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt.m3u8",
     "status": "blocked",
     "new": false,
-    "visible": true
+    "visible": false
   },
   {
     "id": 21836,
@@ -9617,7 +9617,7 @@
       "ar": "",
       "en": "Télé Maroc"
     },
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Logotelemaroc.jpeg",
+    "logo": "https://i.imgur.com/NA7Agqb.png",
     "code": {
       "country": "MA",
       "category": "general",
