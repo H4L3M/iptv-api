@@ -9149,7 +9149,7 @@
       "ar": "",
       "en": "2M Monde"
     },
-    "logo": "gsfO6nT",
+    "logo": "WwGNCHC",
     "code": {
       "country": "MA",
       "category": "general",
@@ -9162,37 +9162,19 @@
     "visible": true
   },
   {
-    "id": 532,
-    "name": {
-      "ar": "",
-      "en": "Aflam TV"
-    },
-    "logo": "https://i.imgur.com/vniU3Fp.png",
-    "code": {
-      "country": "MA",
-      "category": "",
-      "package": ""
-    },
-    "user_agent": "",
-    "stream": "",
-    "status": "offline",
-    "new": false,
-    "visible": true
-  },
-  {
     "id": 678,
     "name": {
       "ar": "",
       "en": "Al Aoula"
     },
-    "logo": "8EOsQQ9",
+    "logo": "SPetoU2",
     "code": {
       "country": "MA",
       "category": "general",
       "package": ""
     },
     "user_agent": "",
-    "stream": "",
+    "stream": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8",
     "status": "offline",
     "new": false,
     "visible": true
@@ -9210,7 +9192,7 @@
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune.m3u8",
+    "stream": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8",
     "status": "blocked",
     "new": false,
     "visible": true
@@ -9221,14 +9203,14 @@
       "ar": "",
       "en": "Al Maghribia"
     },
-    "logo": "PQSQy1u",
+    "logo": "8lW4R8v",
     "code": {
       "country": "MA",
       "category": "general",
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt.m3u8",
+    "stream": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8",
     "status": "blocked",
     "new": false,
     "visible": true
@@ -9239,7 +9221,7 @@
       "ar": "",
       "en": "Al Ons"
     },
-    "logo": "https://i.imgur.com/25WYAU2.png",
+    "logo": "pkMvAjB",
     "code": {
       "country": "MA",
       "category": "",
@@ -9257,15 +9239,15 @@
       "ar": "",
       "en": "Arrabiaa"
     },
-    "logo": "zKnPxo7",
+    "logo": "Z4Pa5yB",
     "code": {
       "country": "MA",
       "category": "general",
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa.m3u8",
-    "status": "blocked",
+    "stream": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8",
+    "status": "online",
     "new": false,
     "visible": true
   },
@@ -9275,15 +9257,15 @@
       "ar": "",
       "en": "Arryadia"
     },
-    "logo": "GZuE5Oy",
+    "logo": "52krU1W",
     "code": {
       "country": "MA",
       "category": "sports",
       "package": ""
     },
     "user_agent": "",
-    "stream": "",
-    "status": "offline",
+    "stream": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8",
+    "status": "online",
     "new": false,
     "visible": true
   },
@@ -9293,15 +9275,15 @@
       "ar": "",
       "en": "Assadissa"
     },
-    "logo": "TDxbgBo",
+    "logo": "PGgV5M1",
     "code": {
       "country": "MA",
       "category": "general",
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa.m3u8",
-    "status": "blocked",
+    "stream": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8",
+    "status": "online",
     "new": false,
     "visible": true
   },
@@ -9311,15 +9293,15 @@
       "ar": "",
       "en": "Chada TV"
     },
-    "logo": "https://i.imgur.com/Whph7Th.png",
+    "logo": "Rwe4MTY",
     "code": {
       "country": "MA",
       "category": "",
       "package": ""
     },
     "user_agent": "",
-    "stream": "",
-    "status": "offline",
+    "stream": "https://chadatv.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8",
+    "status": "online",
     "new": false,
     "visible": true
   },
@@ -9329,7 +9311,7 @@
       "ar": "",
       "en": "M24 TV"
     },
-    "logo": "https://i.imgur.com/bvtjWTm.png",
+    "logo": "7XplA8x",
     "code": {
       "country": "MA",
       "category": "news",
@@ -9347,14 +9329,14 @@
       "ar": "",
       "en": "Medi 1 Afrique"
     },
-    "logo": "https://i.imgur.com/4zomsrO.png",
+    "logo": "w3wV5Nq",
     "code": {
       "country": "MA",
       "category": "news",
       "package": ""
     },
     "user_agent": "",
-    "stream": "http://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8",
+    "stream": "https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8?DVR",
     "status": "online",
     "new": false,
     "visible": true
@@ -9365,14 +9347,14 @@
       "ar": "",
       "en": "Medi 1 Arabic"
     },
-    "logo": "https://i.imgur.com/4zomsrO.png",
+    "logo": "OtM5oAR",
     "code": {
       "country": "MA",
       "category": "news",
       "package": ""
     },
     "user_agent": "",
-    "stream": "http://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8",
+    "stream": "https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8?DVR",
     "status": "online",
     "new": false,
     "visible": true
@@ -9383,14 +9365,14 @@
       "ar": "",
       "en": "Medi 1 Maghreb"
     },
-    "logo": "https://i.imgur.com/4zomsrO.png",
+    "logo": "O8JiaiN",
     "code": {
       "country": "MA",
       "category": "news",
       "package": ""
     },
     "user_agent": "",
-    "stream": "http://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8",
+    "stream": "https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8?DVR",
     "status": "online",
     "new": false,
     "visible": true
@@ -9401,14 +9383,14 @@
       "ar": "",
       "en": "Tamazight"
     },
-    "logo": "xHBM1KR",
+    "logo": "HUSMM0p",
     "code": {
       "country": "MA",
       "category": "general",
       "package": ""
     },
     "user_agent": "",
-    "stream": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt.m3u8",
+    "stream": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8",
     "status": "blocked",
     "new": false,
     "visible": false
@@ -9419,7 +9401,7 @@
       "ar": "",
       "en": "Télé Maroc"
     },
-    "logo": "https://i.imgur.com/NA7Agqb.png",
+    "logo": "3VP8ALn",
     "code": {
       "country": "MA",
       "category": "general",
