@@ -9149,7 +9149,7 @@
       "ar": "",
       "en": "2M Monde"
     },
-    "logo": "https://i.imgur.com/fzyiFoW.png",
+    "logo": "gsfO6nT",
     "code": {
       "country": "MA",
       "category": "general",
@@ -9160,24 +9160,6 @@
     "status": "online",
     "new": false,
     "visible": true
-  },
-  {
-    "id": 85,
-    "name": {
-      "ar": "",
-      "en": "2M National"
-    },
-    "logo": "https://i.imgur.com/fzyiFoW.png",
-    "code": {
-      "country": "MA",
-      "category": "",
-      "package": ""
-    },
-    "user_agent": "",
-    "stream": "",
-    "status": "offline",
-    "new": false,
-    "visible": false
   },
   {
     "id": 532,
@@ -9203,7 +9185,7 @@
       "ar": "",
       "en": "Al Aoula"
     },
-    "logo": "https://i.imgur.com/dBWFaah.png",
+    "logo": "8EOsQQ9",
     "code": {
       "country": "MA",
       "category": "general",
@@ -9216,30 +9198,12 @@
     "visible": true
   },
   {
-    "id": 679,
-    "name": {
-      "ar": "",
-      "en": "Al Aoula Europe"
-    },
-    "logo": "https://www.lyngsat.com/logo/tv/ss/snrt_1_tvm_eu.png",
-    "code": {
-      "country": "MA",
-      "category": "",
-      "package": ""
-    },
-    "user_agent": "",
-    "stream": "",
-    "status": "offline",
-    "new": false,
-    "visible": false
-  },
-  {
     "id": 680,
     "name": {
       "ar": "",
       "en": "Al Aoula Laayoune"
     },
-    "logo": "https://i.imgur.com/dBWFaah.png",
+    "logo": "8EOsQQ9",
     "code": {
       "country": "MA",
       "category": "general",
@@ -9252,48 +9216,12 @@
     "visible": true
   },
   {
-    "id": 681,
-    "name": {
-      "ar": "",
-      "en": "Al Aoula Maroc"
-    },
-    "logo": "https://www.lyngsat.com/logo/tv/ss/snrt_1_tvm.png",
-    "code": {
-      "country": "MA",
-      "category": "",
-      "package": ""
-    },
-    "user_agent": "",
-    "stream": "",
-    "status": "offline",
-    "new": false,
-    "visible": false
-  },
-  {
-    "id": 682,
-    "name": {
-      "ar": "",
-      "en": "Al Aoula Middle East"
-    },
-    "logo": "https://media.elcinema.com/tvguide/1101_1.png",
-    "code": {
-      "country": "MA",
-      "category": "",
-      "package": ""
-    },
-    "user_agent": "",
-    "stream": "",
-    "status": "offline",
-    "new": false,
-    "visible": false
-  },
-  {
     "id": 830,
     "name": {
       "ar": "",
       "en": "Al Maghribia"
     },
-    "logo": "https://i.imgur.com/SdeiuEL.png",
+    "logo": "PQSQy1u",
     "code": {
       "country": "MA",
       "category": "general",
@@ -9329,7 +9257,7 @@
       "ar": "",
       "en": "Arrabiaa"
     },
-    "logo": "https://i.imgur.com/k11zZbT.png",
+    "logo": "zKnPxo7",
     "code": {
       "country": "MA",
       "category": "general",
@@ -9347,7 +9275,7 @@
       "ar": "",
       "en": "Arryadia"
     },
-    "logo": "https://i.imgur.com/HrvbVB2.png",
+    "logo": "GZuE5Oy",
     "code": {
       "country": "MA",
       "category": "sports",
@@ -9365,7 +9293,7 @@
       "ar": "",
       "en": "Assadissa"
     },
-    "logo": "https://i.imgur.com/r0OfkRE.png",
+    "logo": "TDxbgBo",
     "code": {
       "country": "MA",
       "category": "general",
@@ -9378,102 +9306,12 @@
     "visible": true
   },
   {
-    "id": 1541,
-    "name": {
-      "ar": "",
-      "en": "Athaqafia"
-    },
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Arrabiaa.jpg",
-    "code": {
-      "country": "MA",
-      "category": "",
-      "package": ""
-    },
-    "user_agent": "",
-    "stream": "",
-    "status": "offline",
-    "new": false,
-    "visible": false
-  },
-  {
-    "id": 3089,
-    "name": {
-      "ar": "",
-      "en": "Canal Atlas Fight"
-    },
-    "logo": "https://i.imgur.com/VQUrMjE.png",
-    "code": {
-      "country": "MA",
-      "category": "general",
-      "package": ""
-    },
-    "user_agent": "",
-    "stream": "https://edge.vedge.infomaniak.com/livecast/ik:atlasfight/manifest.m3u8",
-    "status": "blocked",
-    "new": false,
-    "visible": true
-  },
-  {
     "id": 3721,
     "name": {
       "ar": "",
       "en": "Chada TV"
     },
     "logo": "https://i.imgur.com/Whph7Th.png",
-    "code": {
-      "country": "MA",
-      "category": "",
-      "package": ""
-    },
-    "user_agent": "",
-    "stream": "",
-    "status": "offline",
-    "new": false,
-    "visible": true
-  },
-  {
-    "id": 4750,
-    "name": {
-      "ar": "",
-      "en": "Cote \u0026 Sport 1"
-    },
-    "logo": "https://www.lyngsat.com/logo/tv/cc/cote-and-sport-ma.png",
-    "code": {
-      "country": "MA",
-      "category": "sports",
-      "package": ""
-    },
-    "user_agent": "",
-    "stream": "",
-    "status": "offline",
-    "new": false,
-    "visible": false
-  },
-  {
-    "id": 4751,
-    "name": {
-      "ar": "",
-      "en": "Cote \u0026 Sport 2"
-    },
-    "logo": "https://www.lyngsat.com/logo/tv/cc/cote-and-sport-ma.png",
-    "code": {
-      "country": "MA",
-      "category": "sports",
-      "package": ""
-    },
-    "user_agent": "",
-    "stream": "",
-    "status": "offline",
-    "new": false,
-    "visible": false
-  },
-  {
-    "id": 14138,
-    "name": {
-      "ar": "",
-      "en": "L\u0027Match"
-    },
-    "logo": "https://www.lyngsat.com/logo/tv/ll/lmatch-ma.png",
     "code": {
       "country": "MA",
       "category": "",
@@ -9558,48 +9396,12 @@
     "visible": true
   },
   {
-    "id": 20354,
-    "name": {
-      "ar": "",
-      "en": "Sloog"
-    },
-    "logo": "https://www.lyngsat.com/logo/tv/ss/sloog-ma.png",
-    "code": {
-      "country": "MA",
-      "category": "",
-      "package": ""
-    },
-    "user_agent": "",
-    "stream": "",
-    "status": "offline",
-    "new": false,
-    "visible": true
-  },
-  {
-    "id": 20512,
-    "name": {
-      "ar": "",
-      "en": "Sorec TV"
-    },
-    "logo": "https://www.lyngsat.com/logo/tv/ss/sorec-ma.png",
-    "code": {
-      "country": "MA",
-      "category": "",
-      "package": ""
-    },
-    "user_agent": "",
-    "stream": "",
-    "status": "offline",
-    "new": false,
-    "visible": true
-  },
-  {
     "id": 21523,
     "name": {
       "ar": "",
       "en": "Tamazight"
     },
-    "logo": "https://i.imgur.com/uC6IF9P.png",
+    "logo": "xHBM1KR",
     "code": {
       "country": "MA",
       "category": "general",
